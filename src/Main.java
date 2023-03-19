@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// -- self explanatory code via string names or what to input
 public class Main {
     public static int X;
     public static int Y;
