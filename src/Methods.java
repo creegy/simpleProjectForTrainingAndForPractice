@@ -40,4 +40,21 @@ public class Methods {
         sum = X+Y;
         return sum;
     }
+    public int subtraction(){
+        sum = X - Y;
+        return sum;
+    }
+    public int multiplication() {
+        sum = X * Y;
+        return sum;
+    }
+
+    public int division() {
+        sum = X / Y;
+        return sum;
+    }
+    public int modulus() {
+        sum = X % Y;
+        return sum;
+    }
 }
