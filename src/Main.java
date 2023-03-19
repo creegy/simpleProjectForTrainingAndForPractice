@@ -1,21 +1,24 @@
 import java.util.Scanner;
 
 public class Main {
+    public static int X;
+    public static int Y;
+    public static int sum;
+    public static int sumOfAddition;
     public static void main(String[] args) {
-        int number;
+//        int number;
         String tekst;
-        System.out.print("input number here: ");
-        Scanner input = new Scanner(System.in);
-        number = input.nextInt();
-        System.out.println("number printed: " + number);
-        String str = Integer.toString(number);
-        System.out.println("changed from integer to string: " + str);
-        input.close();
+//        System.out.print("input number here: ");
+//        Scanner input = new Scanner(System.in);
+//        number = input.nextInt();
+//        System.out.println("number printed: " + number);
+//        String str = Integer.toString(number);
+//        System.out.println("changed from integer to string: " + str);
+//        input.close();
 
-        Methods outputFromDifferentClass = new Methods();
-        tekst = outputFromDifferentClass.metoda();
+        //-- code to copy
+//        Methods outputFromDifferentClass = new Methods(X, Y, sum);
 
-        System.out.println(tekst);
 
 //        Classes classes = new Classes();
         Classes.Fox foxPrint = new Classes.Fox();
@@ -23,5 +26,19 @@ public class Main {
         animalPrint.animalSounds();
         foxPrint.animalSounds();
         System.out.println(animalPrint.animalStr + " ||| " + foxPrint.foxStr);
+
+
+        Scanner inputMath = new Scanner(System.in);
+        System.out.print("number X = ");
+        X = inputMath.nextInt();
+        System.out.print("number Y = ");
+        Y = inputMath.nextInt();
+        Methods outputFromDifferentClass = new Methods(X, Y, sum);
+        sumOfAddition = outputFromDifferentClass.addition();
+        System.out.println("sum of addition = " + sumOfAddition);
+        tekst = outputFromDifferentClass.metoda();
+
+        System.out.println(tekst);
+
     }
 }

@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a82ee4a-4be5-42f4-8faf-555ecff2f0e4" name="Changes" comment="update, will work more this evening or tomorrow">
-      <change afterPath="$PROJECT_DIR$/src/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
+    <list default="true" id="4a82ee4a-4be5-42f4-8faf-555ecff2f0e4" name="Changes" comment="update number 2, will work more this evening or tomorrow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pheni/IdeaProjects/simpleProjectForTraining"
+    "last_opened_file_path": "C:/Users/pheni/IdeaProjects/TestyJednostkoweBudynek"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679071055127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update number 2, will work more this evening or tomorrow">
+      <created>1679081094894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679081094894</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update number 2, will work more this evening or tomorrow">
+      <created>1679081178790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679081178790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update, will work more on this this evening or tomorrow" />
     <MESSAGE value="update, will work more this evening or tomorrow" />
-    <option name="LAST_COMMIT_MESSAGE" value="update, will work more this evening or tomorrow" />
+    <MESSAGE value="update number 2, will work more this evening or tomorrow" />
+    <option name="LAST_COMMIT_MESSAGE" value="update number 2, will work more this evening or tomorrow" />
   </component>
 </project>
